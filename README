@@ -3,3 +3,5 @@ This script makes a .pak file that patches that check out, btw enjoy the vive "w
 
 to patch run: python ikea_vr_patch.py "<path to steam library>\steamapps\common\IKEA VR Experience\IKEAVR2\Content\Paks\IKEAVR2-WindowsNoEditor.pak"
 to unpatch: delete the `IKEAVR2-WindowsNoEditor_P.pak` file (why would you? just uninstall the game at that point lmao)
+
+(This is for https://store.steampowered.com/app/447270/IKEA_VR_Experience/)
