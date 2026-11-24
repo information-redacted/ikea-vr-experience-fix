@@ -1,0 +1,5 @@
+The IKEA VR Experience was made in a time where we didn't have the magic of SLAM headsets and will blackscreen if it doesn't detect a vive headset with lighthouses set up
+This script makes a .pak file that patches that check out, btw enjoy the vive "wands" for hands, i got too lazy to do more than this :)
+
+to patch run: python ikea_vr_patch.py "<path to steam library>\steamapps\common\IKEA VR Experience\IKEAVR2\Content\Paks\IKEAVR2-WindowsNoEditor.pak"
+to unpatch: delete the `IKEAVR2-WindowsNoEditor_P.pak` file (why would you? just uninstall the game at that point lmao)
